@@ -1,0 +1,7 @@
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\Practica7\bin\Debug\Practica7.exe.config
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\Practica7\bin\Debug\Practica7.exe
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\Practica7\bin\Debug\Practica7.pdb
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\Practica7\obj\Debug\002Practica7.csprojAssemblyReference.cache
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\Practica7\obj\Debug\002Practica7.csproj.CoreCompileInputs.cache
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\Practica7\obj\Debug\Practica7.exe
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\Practica7\obj\Debug\Practica7.pdb

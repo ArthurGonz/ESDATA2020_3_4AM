@@ -1,0 +1,14 @@
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\002b_PilaClasica\bin\Debug\002b_PilaClasica.exe.config
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\002b_PilaClasica\bin\Debug\002b_PilaClasica.exe
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\002b_PilaClasica\bin\Debug\002b_PilaClasica.pdb
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\002b_PilaClasica\obj\Debug\002b_PilaClasica.csprojAssemblyReference.cache
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\002b_PilaClasica\obj\Debug\002b_PilaClasica.csproj.CoreCompileInputs.cache
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\002b_PilaClasica\obj\Debug\002b_PilaClasica.exe
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\002b_PilaClasica\obj\Debug\002b_PilaClasica.pdb
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\002b_PilaClasica\bin\Debug\002b_PilaClasica.exe.config
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\002b_PilaClasica\bin\Debug\002b_PilaClasica.exe
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\002b_PilaClasica\bin\Debug\002b_PilaClasica.pdb
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\002b_PilaClasica\obj\Debug\002b_PilaClasica.csprojAssemblyReference.cache
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\002b_PilaClasica\obj\Debug\002b_PilaClasica.csproj.CoreCompileInputs.cache
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\002b_PilaClasica\obj\Debug\002b_PilaClasica.exe
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\002b_PilaClasica\obj\Debug\002b_PilaClasica.pdb

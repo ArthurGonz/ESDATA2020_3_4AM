@@ -1,0 +1,7 @@
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\Examen01\bin\Debug\Examen01.exe.config
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\Examen01\bin\Debug\Examen01.exe
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\Examen01\bin\Debug\Examen01.pdb
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\Examen01\obj\Debug\Examen01.csprojAssemblyReference.cache
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\Examen01\obj\Debug\Examen01.csproj.CoreCompileInputs.cache
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\Examen01\obj\Debug\Examen01.exe
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\Examen01\obj\Debug\Examen01.pdb

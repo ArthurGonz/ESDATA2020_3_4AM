@@ -1,0 +1,14 @@
+C:\Users\dagas\Documents\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Arreglos\bin\Debug\001_Arreglos.exe.config
+C:\Users\dagas\Documents\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Arreglos\bin\Debug\001_Arreglos.exe
+C:\Users\dagas\Documents\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Arreglos\bin\Debug\001_Arreglos.pdb
+C:\Users\dagas\Documents\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Arreglos\obj\Debug\001_Arreglos.csprojAssemblyReference.cache
+C:\Users\dagas\Documents\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Arreglos\obj\Debug\001_Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\dagas\Documents\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Arreglos\obj\Debug\001_Arreglos.exe
+C:\Users\dagas\Documents\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Arreglos\obj\Debug\001_Arreglos.pdb
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Arreglos\bin\Debug\001_Arreglos.exe.config
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Arreglos\bin\Debug\001_Arreglos.exe
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Arreglos\bin\Debug\001_Arreglos.pdb
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Arreglos\obj\Debug\001_Arreglos.csprojAssemblyReference.cache
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Arreglos\obj\Debug\001_Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Arreglos\obj\Debug\001_Arreglos.exe
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Arreglos\obj\Debug\001_Arreglos.pdb

@@ -1,0 +1,7 @@
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\003c_PilaDesordenadaLista\bin\Debug\003c_PilaDesordenadaLista.exe.config
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\003c_PilaDesordenadaLista\bin\Debug\003c_PilaDesordenadaLista.exe
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\003c_PilaDesordenadaLista\bin\Debug\003c_PilaDesordenadaLista.pdb
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\003c_PilaDesordenadaLista\obj\Debug\003c_PilaDesordenadaLista.csprojAssemblyReference.cache
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\003c_PilaDesordenadaLista\obj\Debug\003c_PilaDesordenadaLista.csproj.CoreCompileInputs.cache
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\003c_PilaDesordenadaLista\obj\Debug\003c_PilaDesordenadaLista.exe
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\003c_PilaDesordenadaLista\obj\Debug\003c_PilaDesordenadaLista.pdb

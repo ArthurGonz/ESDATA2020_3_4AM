@@ -1,0 +1,16 @@
+C:\Users\dagas\Documents\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Practicas\bin\Debug\001_Practicas.exe.config
+C:\Users\dagas\Documents\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Practicas\bin\Debug\001_Practicas.exe
+C:\Users\dagas\Documents\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Practicas\bin\Debug\001_Practicas.pdb
+C:\Users\dagas\Documents\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Practicas\obj\Debug\001_Practicas.csprojAssemblyReference.cache
+C:\Users\dagas\Documents\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Practicas\obj\Debug\001_Practicas.csproj.CoreCompileInputs.cache
+C:\Users\dagas\Documents\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Practicas\obj\Debug\001_Practicas.exe
+C:\Users\dagas\Documents\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Practicas\obj\Debug\001_Practicas.pdb
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Practicas\bin\Debug\001_Practicas.exe.config
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Practicas\bin\Debug\001_Practicas.exe
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Practicas\bin\Debug\001_Practicas.pdb
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Practicas\obj\Debug\001_Practicas.csprojAssemblyReference.cache
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Practicas\obj\Debug\001_Practicas.csproj.CoreCompileInputs.cache
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Practicas\obj\Debug\001_Practicas.exe
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Practicas\obj\Debug\001_Practicas.pdb
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Practicas\obj\Debug\_001_Practicas.Practica03_.resources
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_Practicas\obj\Debug\001_Practicas.csproj.GenerateResource.cache

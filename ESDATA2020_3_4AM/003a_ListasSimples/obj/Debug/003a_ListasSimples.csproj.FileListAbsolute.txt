@@ -1,0 +1,7 @@
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\003a_ListasSimples\bin\Debug\003a_ListasSimples.exe.config
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\003a_ListasSimples\bin\Debug\003a_ListasSimples.exe
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\003a_ListasSimples\bin\Debug\003a_ListasSimples.pdb
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\003a_ListasSimples\obj\Debug\003a_ListasSimples.csprojAssemblyReference.cache
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\003a_ListasSimples\obj\Debug\003a_ListasSimples.csproj.CoreCompileInputs.cache
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\003a_ListasSimples\obj\Debug\003a_ListasSimples.exe
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\003a_ListasSimples\obj\Debug\003a_ListasSimples.pdb

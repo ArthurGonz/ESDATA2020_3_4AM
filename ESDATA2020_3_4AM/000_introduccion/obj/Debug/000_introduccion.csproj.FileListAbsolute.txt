@@ -1,0 +1,18 @@
+C:\Users\dagas\Documents\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\000_introduccion\bin\Debug\000_introduccion.exe.config
+C:\Users\dagas\Documents\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\000_introduccion\bin\Debug\000_introduccion.exe
+C:\Users\dagas\Documents\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\000_introduccion\bin\Debug\000_introduccion.pdb
+C:\Users\dagas\Documents\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\000_introduccion\obj\Debug\000_introduccion.csprojAssemblyReference.cache
+C:\Users\dagas\Documents\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\000_introduccion\obj\Debug\000_introduccion.csproj.CoreCompileInputs.cache
+C:\Users\dagas\Documents\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\000_introduccion\obj\Debug\000_introduccion.exe
+C:\Users\dagas\Documents\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\000_introduccion\obj\Debug\000_introduccion.pdb
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\000_introduccion\obj\Debug\000_introduccion.csprojAssemblyReference.cache
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\000_introduccion\obj\Debug\000_introduccion.csproj.CoreCompileInputs.cache
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\000_introduccion\obj\Debug\000_introduccion.exe
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\000_introduccion\obj\Debug\000_introduccion.pdb
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\000_introduccion\bin\Debug\000_introduccion.exe.config
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\000_introduccion\bin\Debug\000_introduccion.exe
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\000_introduccion\bin\Debug\000_introduccion.pdb
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\000_introduccion\obj\Debug\000_introduccion.csprojAssemblyReference.cache
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\000_introduccion\obj\Debug\000_introduccion.csproj.CoreCompileInputs.cache
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\000_introduccion\obj\Debug\000_introduccion.exe
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\000_introduccion\obj\Debug\000_introduccion.pdb

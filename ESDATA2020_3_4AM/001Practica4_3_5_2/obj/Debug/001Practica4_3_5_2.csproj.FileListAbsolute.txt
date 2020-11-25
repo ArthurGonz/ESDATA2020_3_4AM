@@ -1,0 +1,7 @@
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001Practica4_3_5_2\bin\Debug\001Practica4_3_5_2.exe.config
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001Practica4_3_5_2\bin\Debug\001Practica4_3_5_2.exe
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001Practica4_3_5_2\bin\Debug\001Practica4_3_5_2.pdb
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001Practica4_3_5_2\obj\Debug\001Practica4_3_5_2.csprojAssemblyReference.cache
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001Practica4_3_5_2\obj\Debug\001Practica4_3_5_2.csproj.CoreCompileInputs.cache
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001Practica4_3_5_2\obj\Debug\001Practica4_3_5_2.exe
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001Practica4_3_5_2\obj\Debug\001Practica4_3_5_2.pdb

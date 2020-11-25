@@ -1,0 +1,6 @@
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_ArreglosBidimensional\obj\Debug\001_ArreglosBidimensional.csproj.CoreCompileInputs.cache
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_ArreglosBidimensional\bin\Debug\001_ArreglosBidimensional.exe.config
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_ArreglosBidimensional\bin\Debug\001_ArreglosBidimensional.exe
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_ArreglosBidimensional\bin\Debug\001_ArreglosBidimensional.pdb
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_ArreglosBidimensional\obj\Debug\001_ArreglosBidimensional.exe
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\001_ArreglosBidimensional\obj\Debug\001_ArreglosBidimensional.pdb

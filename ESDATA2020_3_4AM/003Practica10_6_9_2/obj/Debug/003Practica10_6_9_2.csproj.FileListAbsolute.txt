@@ -1,0 +1,7 @@
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\003Practica10_6_9_2\bin\Debug\003Practica10_6_9_2.exe.config
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\003Practica10_6_9_2\bin\Debug\003Practica10_6_9_2.exe
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\003Practica10_6_9_2\bin\Debug\003Practica10_6_9_2.pdb
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\003Practica10_6_9_2\obj\Debug\003Practica10_6_9_2.csprojAssemblyReference.cache
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\003Practica10_6_9_2\obj\Debug\003Practica10_6_9_2.csproj.CoreCompileInputs.cache
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\003Practica10_6_9_2\obj\Debug\003Practica10_6_9_2.exe
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\003Practica10_6_9_2\obj\Debug\003Practica10_6_9_2.pdb

@@ -1,0 +1,20 @@
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\002c_Cola_Practica8_5_2\bin\Debug\002c_Cola_Practica8_5_2.exe.config
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\002c_Cola_Practica8_5_2\bin\Debug\002c_Cola_Practica8_5_2.exe
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\002c_Cola_Practica8_5_2\bin\Debug\002c_Cola_Practica8_5_2.pdb
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\002c_Cola_Practica8_5_2\obj\Debug\002c_Cola_Practica8_5_2.csprojAssemblyReference.cache
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\002c_Cola_Practica8_5_2\obj\Debug\_002c_Cola_Practica8_5_2.Form1.resources
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\002c_Cola_Practica8_5_2\obj\Debug\_002c_Cola_Practica8_5_2.Properties.Resources.resources
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\002c_Cola_Practica8_5_2\obj\Debug\002c_Cola_Practica8_5_2.csproj.GenerateResource.cache
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\002c_Cola_Practica8_5_2\obj\Debug\002c_Cola_Practica8_5_2.csproj.CoreCompileInputs.cache
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\002c_Cola_Practica8_5_2\obj\Debug\002c_Cola_Practica8_5_2.exe
+C:\Users\dagas\Desktop\School\Trabajos y tareas\Estructura de datos\ESDATA2020_3_4AM\002c_Cola_Practica8_5_2\obj\Debug\002c_Cola_Practica8_5_2.pdb
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\002c_Cola_Practica8_5_2\bin\Debug\002c_Cola_Practica8_5_2.exe.config
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\002c_Cola_Practica8_5_2\bin\Debug\002c_Cola_Practica8_5_2.exe
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\002c_Cola_Practica8_5_2\bin\Debug\002c_Cola_Practica8_5_2.pdb
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\002c_Cola_Practica8_5_2\obj\Debug\002c_Cola_Practica8_5_2.csprojAssemblyReference.cache
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\002c_Cola_Practica8_5_2\obj\Debug\_002c_Cola_Practica8_5_2.Form1.resources
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\002c_Cola_Practica8_5_2\obj\Debug\_002c_Cola_Practica8_5_2.Properties.Resources.resources
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\002c_Cola_Practica8_5_2\obj\Debug\002c_Cola_Practica8_5_2.csproj.GenerateResource.cache
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\002c_Cola_Practica8_5_2\obj\Debug\002c_Cola_Practica8_5_2.csproj.CoreCompileInputs.cache
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\002c_Cola_Practica8_5_2\obj\Debug\002c_Cola_Practica8_5_2.exe
+C:\Users\dagas\Documents\GitHub\ESDATA2020_3_4AM\ESDATA2020_3_4AM\002c_Cola_Practica8_5_2\obj\Debug\002c_Cola_Practica8_5_2.pdb
