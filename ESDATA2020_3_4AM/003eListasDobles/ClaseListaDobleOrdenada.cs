@@ -1,14 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-
-namespace _003e_ListasDobles
+namespace _003eListasDobles
 {
-    class ClaseListaDobleOrdenada<Tipo> where Tipo :
-IComparable<Tipo>, IEquatable<Tipo>
+    class ClaseListaDobleOrdenada<Tipo> where Tipo : IComparable<Tipo>, IEquatable<Tipo>
     {
-        private ClaseNodo nodoinicial; // Apuntador al nodo inicial
-        private ClaseNodo nodofinal; // Apuntador al nodo final
+        private ClaseNodo nodoinicial; // Apuntador al        nodo inicial
+        private ClaseNodo nodofinal; // Apuntador al        nodo final
         private ClaseNodo NodoInicial
         {
             get { return (nodoinicial); }
@@ -30,6 +31,7 @@ IComparable<Tipo>, IEquatable<Tipo>
                 siguiente = null;
                 anterior = null;
             }
+
             public Tipo ObjetoConDatos
             {
                 get { return (objetocondatos); }
@@ -51,44 +53,41 @@ IComparable<Tipo>, IEquatable<Tipo>
         {
             // Inicializa la lista doble vacía
             NodoInicial = null;
+
             NodoFinal = null;
         }
-        // Método privado para detectar si la lista doble está vacía
+        // Método privado para detectar si la lista        doble está vacía
         public bool EstaVacia()
         {
-            if (NodoInicial == null || NodoFinal ==
-            null)
+            if (NodoInicial == null || NodoFinal == null)
                 return (true);
             else
                 return (false);
         }
-        // Método que recibe el Nodo que se desea insertar
+        // Método que recibe el Nodo que se desea        insertar
         public void Insertar(Tipo Nodo)
         {
             // Declaración local de los nodos
-            ClaseNodo NuevoNodo, NodoActual,
-            NodoAnterior;
+            ClaseNodo NuevoNodo, NodoActual, NodoAnterior;
             if (EstaVacia()) // Si está vacía
             {
-                NuevoNodo = new ClaseNodo(); // Creación del NuevoNodo
-                NuevoNodo.ObjetoConDatos = Nodo; // Asignación del Nodo
+                NuevoNodo = new ClaseNodo(); //                Creación del NuevoNodo
+                NuevoNodo.ObjetoConDatos = Nodo; //                Asignación del Nodo
                 //NuevoNodo.Anterior = null;
                 //NuevoNodo.Siguiente = null;
-                NodoInicial = NuevoNodo; // El NuevoNodo es el NodoInicial
-                NodoFinal = NuevoNodo; // El NuevoNodo también es el NodoFinal
+                NodoInicial = NuevoNodo; // El                NuevoNodo es el NodoInicial
+                NodoFinal = NuevoNodo; // El                NuevoNodo también es el NodoFinal
                 return; // Inserción exitosa
             }
             NodoActual = NodoInicial;
             NodoAnterior = NodoActual;
             while (NodoActual != null)
             {
-                if
-                (NodoActual.ObjetoConDatos.Equals(Nodo))
-                    throw new
-Exception("Duplicado...");
+                if (NodoActual.ObjetoConDatos.Equals(Nodo))
+                    throw new Exception("Duplicado...");
                 if (Nodo.CompareTo(NodoActual.ObjetoConDatos) < 0)
-                    if(Nodo.CompareTo(NodoInicial.ObjetoConDatos) < 0) // Inserción al principio
-                    {
+                    if (Nodo.CompareTo(NodoInicial.ObjetoConDatos) < 0) //                        Inserción al principio
+                    {//insertar al inicio de la lista
                         NuevoNodo = new ClaseNodo();
                         NuevoNodo.ObjetoConDatos = Nodo;
                         //NuevoNodo.Anterior = null;
@@ -100,16 +99,11 @@ Exception("Duplicado...");
                     else // Inserción intermedia
                     {
                         NuevoNodo = new ClaseNodo();
-                        NuevoNodo.ObjetoConDatos =
-                        Nodo;
-                        NuevoNodo.Anterior =
-                        NodoAnterior;
-                        NuevoNodo.Siguiente =
-                        NodoActual;
-                        NodoAnterior.Siguiente =
-                        NuevoNodo;
-                        NodoActual.Anterior =
-                        NuevoNodo;
+                        NuevoNodo.ObjetoConDatos = Nodo;
+                        NuevoNodo.Anterior = NodoAnterior;
+                        NuevoNodo.Siguiente = NodoActual;
+                        NodoAnterior.Siguiente = NuevoNodo;
+                        NodoActual.Anterior = NuevoNodo;
                         return;
                     }
                 NodoAnterior = NodoActual;
@@ -119,9 +113,10 @@ Exception("Duplicado...");
             NuevoNodo = new ClaseNodo();
             NuevoNodo.ObjetoConDatos = Nodo;
             NuevoNodo.Anterior = NodoFinal;
-            NuevoNodo.Siguiente = null;
+            //NuevoNodo.Siguiente = null;
             NodoFinal.Siguiente = NuevoNodo;
             NodoFinal = NuevoNodo;
+
             return;
         }
         public Tipo Eliminar(Tipo Nodo)
@@ -136,19 +131,19 @@ Exception("Duplicado...");
             while (NodoActual != null)
             {
                 if
-                (NodoActual.ObjetoConDatos.Equals(Nodo)) // Si localiza el nodo...
+                (NodoActual.ObjetoConDatos.Equals(Nodo)) // Si localiza el                    nodo...
                 {
                     ClaseNodo NodoEliminado = new
                     ClaseNodo();
                     NodoEliminado = NodoActual;
-                    if (NodoInicial == NodoFinal) // Eliminación del único nodo
+                    if (NodoInicial == NodoFinal) //                        Eliminación del único nodo
                     {
                         NodoInicial = null;
                         NodoFinal = null;
                         NodoActual = null;
                         return (NodoEliminado.ObjetoConDatos);
                     }
-                    if (NodoActual == NodoInicial) // Eliminación al inicio
+                    if (NodoActual == NodoInicial) //                        Eliminación al inicio
                     {
                         NodoInicial =
                         NodoActual.Siguiente;
@@ -157,7 +152,8 @@ Exception("Duplicado...");
                         return
                         (NodoEliminado.ObjetoConDatos);
                     }
-                    if (NodoActual == NodoFinal) // Eliminación al final
+
+                    if (NodoActual == NodoFinal) //                        Eliminación al final
                     {
                         NodoFinal =
                         NodoActual.Anterior;
@@ -167,65 +163,69 @@ Exception("Duplicado...");
                         (NodoEliminado.ObjetoConDatos);
                     }
                     // Eliminación intermedia
-                    NodoAnterior.Siguiente = NodoActual.Siguiente;
-                    NodoActual.Siguiente.Anterior = NodoActual.Anterior;
+                    NodoAnterior.Siguiente =
+                    NodoActual.Siguiente;
+                    NodoActual.Siguiente.Anterior =
+                    NodoActual.Anterior;
                     NodoActual = null;
                     return
                     (NodoEliminado.ObjetoConDatos);
                 }
                 if
-                (Nodo.CompareTo(NodoActual.ObjetoConDatos) < 0) // Si el nodo buscado es menor,
+                (Nodo.CompareTo(NodoActual.ObjetoConDatos) < 0) // Si el                    nodo buscado es menor,
                     return (default(Tipo));
                 // entonces no se encuentra
-                NodoAnterior = NodoActual; // Guarda el NodoAnterior
-                NodoActual = NodoActual.Siguiente; // Cambio de NodoActual
+                NodoAnterior = NodoActual; // Guarda                el NodoAnterior
+                NodoActual = NodoActual.Siguiente; //                Cambio de NodoActual
             }
-            // Termina el recorrido de la lista doble y no se localiza el nodo(eliminación fallida)
+            // Termina el recorrido de la lista doble y            no se localiza el nodo(eliminación fallida)
             return (default(Tipo));
         }
-        // Método público que recibe un Nodo para buscarlo en la lista doble
+        // Método público que recibe un Nodo para        buscarlo en la lista doble
         public Tipo Buscar(Tipo Nodo)
         {
             if (!EstaVacia())
             {
                 ClaseNodo NodoActual = new ClaseNodo();
-                // Empieza el recorrido en el NodoInicial
+
+                // Empieza el recorrido en el                NodoInicial
                 NodoActual = NodoInicial;
                 while (NodoActual != null)
                 {
                     if
                     (NodoActual.ObjetoConDatos.Equals(Nodo))
                         return
-                        (NodoActual.ObjetoConDatos); // Devuelve los datos del nodo
+                        (NodoActual.ObjetoConDatos); // Devuelve los datos del                    nodo
                     NodoActual = NodoActual.Siguiente;
                     // Cambia al siguiente nodo
                 }
-                // Termina el recorrido y no localiza  el nodo
+                // Termina el recorrido y no localiza                el nodo
                 return (default(Tipo));
             }
             else
-                return (default(Tipo)); // No se encuentra el nodo(Lista doble vacía)
+                return (default(Tipo)); // No se            encuentra el nodo(Lista doble vacía)
         }
-        // Método para eliminar todos los nodos de la  Lista Doble
+        // Método para eliminar todos los nodos de la        Lista Doble
         public void Vaciar()
         {
             if (!EstaVacia())
             {
-                // Inicializa el NodoActual al principio de la lista doble y declara el NodoAnterior
-                ClaseNodo NodoActual = NodoInicial, NodoAnterior;
-                // Recorre la lista doble en forma ascendente
-                while (NodoActual != null) // Mientras no encuentra el final de la lista doble
+                // Inicializa el NodoActual al                principio de la lista doble y declara el NodoAnterior
+                ClaseNodo NodoActual = NodoInicial,NodoAnterior;
+                // Recorre la lista doble en forma                ascendente
+                while (NodoActual != null) // Mientras                    no encuentra el final de la lista doble
                 {
-                    NodoAnterior = NodoActual; // Guarda el NodoAnterior
+                    NodoAnterior = NodoActual; //                    Guarda el NodoAnterior
                     NodoActual = NodoActual.Siguiente;
                     // Cambia de NodoActual
-                    NodoAnterior = null; // Elimina el NodoAnterior
+
+                    NodoAnterior = null; // Elimina el                    NodoAnterior
                 }
-                NodoInicial = null; // Inicializa la lista doble vacía
+                NodoInicial = null; // Inicializa la                lista doble vacía
                 NodoFinal = null;
             }
         }
-        // Iterador para recorrer los nodos en forma ascendente
+        // Iterador para recorrer los nodos en forma        ascendente
         public IEnumerable<Tipo> DesdeNodoInicial
         {
             get
@@ -234,9 +234,9 @@ Exception("Duplicado...");
                     yield break;
                 // Declaración del nodo local
                 ClaseNodo NodoActual = new ClaseNodo();
-                // Inicia el recorrido de la lista en el NodoInicial
+                // Inicia el recorrido de la lista en                el NodoInicial
                 NodoActual = NodoInicial;
-                while (NodoActual != null) // Mientras haya nodos ...
+                while (NodoActual != null) // Mientras                    haya nodos ...
                 {
                     yield return
                     (Tipo)NodoActual.ObjetoConDatos; // Devuelve el NodoActual
@@ -245,7 +245,7 @@ Exception("Duplicado...");
                 }
             }
         }
-        // Iterador para recorrer los nodos en forma descendente
+        // Iterador para recorrer los nodos en forma        descendente
         public IEnumerable<Tipo> DesdeNodoFinal
         {
             get
@@ -253,10 +253,11 @@ Exception("Duplicado...");
                 if (EstaVacia()) // Si está vacía
                     yield break;
                 // Declaración del nodo local
+
                 ClaseNodo NodoActual = new ClaseNodo();
-                // Inicia el recorrido de la lista en el NodoInicial
+                // Inicia el recorrido de la lista en                el NodoInicial
                 NodoActual = NodoFinal;
-                while (NodoActual != null) // Mientras haya nodos ...
+                while (NodoActual != null) // Mientras                    haya nodos ...
                 {
                     yield return
                     (Tipo)NodoActual.ObjetoConDatos; // Devuelve el NodoActual

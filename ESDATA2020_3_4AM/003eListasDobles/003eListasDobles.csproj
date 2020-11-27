@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{00AADDA6-BF78-4B8B-89CD-6808C39982AA}</ProjectGuid>
+    <ProjectGuid>{1BE61F6F-C9E6-44FB-903E-4155FA1C551C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_003e_ListasDobles</RootNamespace>
-    <AssemblyName>003e_ListasDobles</AssemblyName>
+    <RootNamespace>_003eListasDobles</RootNamespace>
+    <AssemblyName>003eListasDobles</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClaseDatosNodoListaDoble.cs" />
     <Compile Include="ClaseListaDobleOrdenada.cs" />
-    <Compile Include="ClaseNodoListaDoble.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003Practica10_6_9_2", "003P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003dColaLista", "003a_ColaLista\003dColaLista.csproj", "{A8BB5C31-00B4-434C-ADC1-6E5670DAF4EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003eListasDobles", "003eListasDobles\003eListasDobles.csproj", "{1BE61F6F-C9E6-44FB-903E-4155FA1C551C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{A8BB5C31-00B4-434C-ADC1-6E5670DAF4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8BB5C31-00B4-434C-ADC1-6E5670DAF4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8BB5C31-00B4-434C-ADC1-6E5670DAF4EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BE61F6F-C9E6-44FB-903E-4155FA1C551C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE61F6F-C9E6-44FB-903E-4155FA1C551C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE61F6F-C9E6-44FB-903E-4155FA1C551C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE61F6F-C9E6-44FB-903E-4155FA1C551C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
