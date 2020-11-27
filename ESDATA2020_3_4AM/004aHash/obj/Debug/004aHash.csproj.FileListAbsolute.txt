@@ -1,0 +1,7 @@
+C:\Users\dagas\Desktop\School\GIT\4AM\ESDATA2020_3_4AM\004aHash\bin\Debug\004aHash.exe.config
+C:\Users\dagas\Desktop\School\GIT\4AM\ESDATA2020_3_4AM\004aHash\bin\Debug\004aHash.exe
+C:\Users\dagas\Desktop\School\GIT\4AM\ESDATA2020_3_4AM\004aHash\bin\Debug\004aHash.pdb
+C:\Users\dagas\Desktop\School\GIT\4AM\ESDATA2020_3_4AM\004aHash\obj\Debug\004aHash.csprojAssemblyReference.cache
+C:\Users\dagas\Desktop\School\GIT\4AM\ESDATA2020_3_4AM\004aHash\obj\Debug\004aHash.csproj.CoreCompileInputs.cache
+C:\Users\dagas\Desktop\School\GIT\4AM\ESDATA2020_3_4AM\004aHash\obj\Debug\004aHash.exe
+C:\Users\dagas\Desktop\School\GIT\4AM\ESDATA2020_3_4AM\004aHash\obj\Debug\004aHash.pdb
