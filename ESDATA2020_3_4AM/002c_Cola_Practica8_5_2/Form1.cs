@@ -100,5 +100,10 @@ namespace _002c_Cola_Practica8_5_2
             MessageBox.Show("Fin de la aplicacion, vuelva pronto");
             Application.Exit();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

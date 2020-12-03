@@ -145,8 +145,7 @@ namespace _003eListasDobles
                     }
                     if (NodoActual == NodoInicial) //                        Eliminación al inicio
                     {
-                        NodoInicial =
-                        NodoActual.Siguiente;
+                        NodoInicial = NodoActual.Siguiente;
                         NodoInicial.Anterior = null;
                         NodoActual = null;
                         return
@@ -155,24 +154,18 @@ namespace _003eListasDobles
 
                     if (NodoActual == NodoFinal) //                        Eliminación al final
                     {
-                        NodoFinal =
-                        NodoActual.Anterior;
+                        NodoFinal = NodoActual.Anterior;
                         NodoFinal.Siguiente = null;
                         NodoActual = null;
-                        return
-                        (NodoEliminado.ObjetoConDatos);
+                        return (NodoEliminado.ObjetoConDatos);
                     }
                     // Eliminación intermedia
-                    NodoAnterior.Siguiente =
-                    NodoActual.Siguiente;
-                    NodoActual.Siguiente.Anterior =
-                    NodoActual.Anterior;
+                    NodoAnterior.Siguiente =NodoActual.Siguiente;
+                    NodoActual.Siguiente.Anterior = NodoActual.Anterior;
                     NodoActual = null;
-                    return
-                    (NodoEliminado.ObjetoConDatos);
+                    return (NodoEliminado.ObjetoConDatos);
                 }
-                if
-                (Nodo.CompareTo(NodoActual.ObjetoConDatos) < 0) // Si el                    nodo buscado es menor,
+                if(Nodo.CompareTo(NodoActual.ObjetoConDatos) < 0) // Si el                    nodo buscado es menor,
                     return (default(Tipo));
                 // entonces no se encuentra
                 NodoAnterior = NodoActual; // Guarda                el NodoAnterior

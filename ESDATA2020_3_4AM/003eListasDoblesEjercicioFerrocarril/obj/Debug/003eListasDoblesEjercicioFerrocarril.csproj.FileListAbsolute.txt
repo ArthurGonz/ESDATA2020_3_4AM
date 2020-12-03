@@ -1,0 +1,10 @@
+C:\Users\dagas\Desktop\School\GIT\4AM\ESDATA2020_3_4AM\003eListasDoblesEjercicioFerrocarril\bin\Debug\003eListasDoblesEjercicioFerrocarril.exe.config
+C:\Users\dagas\Desktop\School\GIT\4AM\ESDATA2020_3_4AM\003eListasDoblesEjercicioFerrocarril\bin\Debug\003eListasDoblesEjercicioFerrocarril.exe
+C:\Users\dagas\Desktop\School\GIT\4AM\ESDATA2020_3_4AM\003eListasDoblesEjercicioFerrocarril\bin\Debug\003eListasDoblesEjercicioFerrocarril.pdb
+C:\Users\dagas\Desktop\School\GIT\4AM\ESDATA2020_3_4AM\003eListasDoblesEjercicioFerrocarril\obj\Debug\003eListasDoblesEjercicioFerrocarril.csprojAssemblyReference.cache
+C:\Users\dagas\Desktop\School\GIT\4AM\ESDATA2020_3_4AM\003eListasDoblesEjercicioFerrocarril\obj\Debug\_003eListasDoblesEjercicioFerrocarril.Form1.resources
+C:\Users\dagas\Desktop\School\GIT\4AM\ESDATA2020_3_4AM\003eListasDoblesEjercicioFerrocarril\obj\Debug\_003eListasDoblesEjercicioFerrocarril.Properties.Resources.resources
+C:\Users\dagas\Desktop\School\GIT\4AM\ESDATA2020_3_4AM\003eListasDoblesEjercicioFerrocarril\obj\Debug\003eListasDoblesEjercicioFerrocarril.csproj.GenerateResource.cache
+C:\Users\dagas\Desktop\School\GIT\4AM\ESDATA2020_3_4AM\003eListasDoblesEjercicioFerrocarril\obj\Debug\003eListasDoblesEjercicioFerrocarril.csproj.CoreCompileInputs.cache
+C:\Users\dagas\Desktop\School\GIT\4AM\ESDATA2020_3_4AM\003eListasDoblesEjercicioFerrocarril\obj\Debug\003eListasDoblesEjercicioFerrocarril.exe
+C:\Users\dagas\Desktop\School\GIT\4AM\ESDATA2020_3_4AM\003eListasDoblesEjercicioFerrocarril\obj\Debug\003eListasDoblesEjercicioFerrocarril.pdb
