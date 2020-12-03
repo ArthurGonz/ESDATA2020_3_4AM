@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004aHash", "004aHash\004aHa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004bHashTable", "004bHashTable\004bHashTable.csproj", "{A894D21F-187F-4652-BC36-4CE90789BA3F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examen_3er_Corte", "Examen_3er_Corte\Examen_3er_Corte.csproj", "{2FD34428-16BA-4E57-8763-E63006ECC5DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{A894D21F-187F-4652-BC36-4CE90789BA3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A894D21F-187F-4652-BC36-4CE90789BA3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A894D21F-187F-4652-BC36-4CE90789BA3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FD34428-16BA-4E57-8763-E63006ECC5DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD34428-16BA-4E57-8763-E63006ECC5DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD34428-16BA-4E57-8763-E63006ECC5DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD34428-16BA-4E57-8763-E63006ECC5DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

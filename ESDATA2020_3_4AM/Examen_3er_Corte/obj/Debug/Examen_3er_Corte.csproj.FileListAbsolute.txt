@@ -1,0 +1,7 @@
+C:\Users\dagas\Desktop\School\GIT\4AM\ESDATA2020_3_4AM\Examen_3er_Corte\bin\Debug\Examen_3er_Corte.exe.config
+C:\Users\dagas\Desktop\School\GIT\4AM\ESDATA2020_3_4AM\Examen_3er_Corte\bin\Debug\Examen_3er_Corte.exe
+C:\Users\dagas\Desktop\School\GIT\4AM\ESDATA2020_3_4AM\Examen_3er_Corte\bin\Debug\Examen_3er_Corte.pdb
+C:\Users\dagas\Desktop\School\GIT\4AM\ESDATA2020_3_4AM\Examen_3er_Corte\obj\Debug\Examen_3er_Corte.csprojAssemblyReference.cache
+C:\Users\dagas\Desktop\School\GIT\4AM\ESDATA2020_3_4AM\Examen_3er_Corte\obj\Debug\Examen_3er_Corte.csproj.CoreCompileInputs.cache
+C:\Users\dagas\Desktop\School\GIT\4AM\ESDATA2020_3_4AM\Examen_3er_Corte\obj\Debug\Examen_3er_Corte.exe
+C:\Users\dagas\Desktop\School\GIT\4AM\ESDATA2020_3_4AM\Examen_3er_Corte\obj\Debug\Examen_3er_Corte.pdb
