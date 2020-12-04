@@ -24,10 +24,14 @@ namespace Examen_3er_Corte
         // Método para comparar dos nodos de la Pila-Desordenada-Lista y determinar si son iguales
         public bool Equals(ClaseDatosNodoPilaLista x)
         {
-            if (this.Dato == x.Dato)
-                return (true);
-            else
-                return (false);
+            //if (x.dato != null)
+            //{
+            //    if (this.Dato == x.Dato)
+            //        return (true);
+            //    else
+            //        return (false);
+            //}
+            return false;  
         }
     }
 }

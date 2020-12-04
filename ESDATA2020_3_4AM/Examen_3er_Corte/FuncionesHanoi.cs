@@ -61,6 +61,7 @@ namespace Examen_3er_Corte
                     arregloC[i] = nodo3.Dato;
                
             }
+
             for (int i = 3; i >= 0; i--) //reinsercion de los datos a las pilas 
             {
                 if (arregloA[i] != 0)
@@ -167,8 +168,22 @@ namespace Examen_3er_Corte
                             mostrar += vacio;
                         break;
                 }
+                mostrar += "\t";
+                mostrar += arregloA[i];
+                mostrar += "\t";
+                mostrar += arregloB[i];
+                mostrar += "\t";
+                mostrar += arregloC[i];
                 mostrar += "\n";
+
             }
+
+            //for (int i = 0; i < 4; i++)
+            //{
+                
+            //    mostrar += "\n";
+            //}
+
             mostrar += baseA + "\t";
             mostrar += baseB + "\t";
             mostrar += baseC + "\t";
@@ -191,5 +206,122 @@ namespace Examen_3er_Corte
                 Torre2.Pop();
             }
         }
+    
+        public int SeleccionJugada(ClasePilaDesordenadaLista<ClaseDatosNodoPilaLista> TorreA, ClasePilaDesordenadaLista<ClaseDatosNodoPilaLista> TorreB, ClasePilaDesordenadaLista<ClaseDatosNodoPilaLista> TorreC, int numeroMovimientos, bool terminar)
+        {
+            string jugada = "";
+
+            Console.Write("jugada: ");
+            jugada = Console.ReadLine();
+
+            switch (jugada)
+            {
+                case "AB":
+                    Mover(TorreA, TorreB, nodo1, nodo2);
+                    break;
+
+                case "AC":
+                    Mover(TorreA, TorreC, nodo1, nodo3);
+                    break;
+
+                case "BA":
+                    Mover(TorreB, TorreA, nodo2, nodo1);
+                    break;
+
+                case "BC":
+                    Mover(TorreB, TorreC, nodo2, nodo3);
+                    break;
+
+                case "CA":
+                    Mover(TorreC, TorreA, nodo3, nodo1);
+                    break;
+
+                case "CB":
+                    Mover(TorreC, TorreB, nodo3, nodo2);
+                    break;
+
+                case "Q":
+                    terminar = Perder(numeroMovimientos);
+                    numeroMovimientos--;
+                    return -1;
+                    break;
+                default:
+                    Console.WriteLine("Movimiento invalido");
+                    break;
+            }
+            numeroMovimientos++;
+            return numeroMovimientos;
+        }
+
+        public void Mover(ClasePilaDesordenadaLista<ClaseDatosNodoPilaLista> TorreOrigen, ClasePilaDesordenadaLista<ClaseDatosNodoPilaLista> TorreDestino, ClaseDatosNodoPilaLista nodoOrigen, ClaseDatosNodoPilaLista nodoDestino )
+        {
+            int datoOrigen = 0, datoDestino = 0;
+
+            // Extraer dato de origen
+            nodoOrigen = TorreOrigen.Pop(); 
+            datoOrigen = nodoOrigen.Dato;
+            //extraer dato destino
+            nodoDestino = TorreDestino.Pop();
+            if(nodoDestino != null)
+                datoDestino = nodoDestino.Dato;
+            // Reintegrar dato destino
+            TorreDestino.Push(nodoDestino);
+
+            if (datoDestino != 0)
+            {
+                if (datoOrigen < datoDestino) //Verificar si el dato a insertar es menor
+                {
+                    TorreDestino.Push(nodoOrigen); //incluir dato origen a destino
+                }
+                else
+                {
+                    TorreOrigen.Push(nodoOrigen); //reintegrar dato origen
+                    Console.WriteLine("Movimiento invalido");
+                }
+            }
+            else
+            {
+                TorreDestino.Push(nodoOrigen); //incluir dato origen a destino vacio
+            }
+        }
+
+        public bool Perder(int numeroMovimientos)
+        {
+            Console.Clear();
+            Console.WriteLine("Perdiste el juego y realizaste {0} movimientos", numeroMovimientos);
+            Console.ReadLine();
+            return true;
+        }
+
+        public bool Ganar(ClasePilaDesordenadaLista<ClaseDatosNodoPilaLista> TorreA, int numeroMovimientos) 
+        {
+            int[] arregloA = new int[4];
+            for (int i = 0; i < 4; i++) //Obtener los valores de las pilas
+            {
+                nodo1 = TorreA.Pop();
+                if (nodo1 != null)
+                    arregloA[i] = nodo1.Dato;
+            }
+
+            for (int i = 3; i >= 0; i--) //reinsercion de los datos a las pilas 
+            {
+                if (arregloA[i] != 0)
+                {
+                    nodo1 = new ClaseDatosNodoPilaLista();
+                    nodo1.Dato = arregloA[i];
+                    TorreA.Push(nodo1);
+                }
+            }
+
+            if (arregloA[3] != 0)
+            {
+                Console.WriteLine("Felicidades has ganado");
+                Console.WriteLine("Realizaste {0} movimientos", numeroMovimientos);
+                Console.ReadLine();
+                return true;
+            }
+            return false;
+        }
+
     }
 }

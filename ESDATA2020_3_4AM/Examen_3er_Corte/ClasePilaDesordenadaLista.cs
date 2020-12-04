@@ -49,15 +49,6 @@ namespace Examen_3er_Corte
                 return (false);
         }
 
-        //metodo publico para detectar si la Pila-Lista esta llena
-        //public bool EstaLlena()
-        //{
-        //    if (Top.Equals(4))
-        //        return true;
-        //    else
-        //        return false;
-        //}
-
         // Método público para detectar si un nodo está almacenado en la Pila-Lista
         // Devuelve el nodo en caso de encontrarlo
         public Tipo Buscar(Tipo Nodo)
